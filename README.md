@@ -1,0 +1,9 @@
+# Cafe Menu
+* This is an example of the project2 [CafeMenu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1) from FreeCodeCamp.org.
+* The goal of this example to for my little brother John Ta to used as a comparison during his journey to become an SDE.
+
+## Tech:
+- HTML5
+- CSS3
+
+[Click Here for Live Link](https://tien96ng.github.io/cafe-menu/?target=_blank)
